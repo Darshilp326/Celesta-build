@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.6df7a823.chunk.css",
-    "main.js": "/static/js/main.2c4532a4.chunk.js",
-    "main.js.map": "/static/js/main.2c4532a4.chunk.js.map",
+    "main.css": "/static/css/main.7692de9f.chunk.css",
+    "main.js": "/static/js/main.296ee182.chunk.js",
+    "main.js.map": "/static/js/main.296ee182.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.10b41d22.js",
     "runtime-main.js.map": "/static/js/runtime-main.10b41d22.js.map",
     "static/css/2.85325696.chunk.css": "/static/css/2.85325696.chunk.css",
@@ -15,10 +15,10 @@
     "static/js/5.92b7725c.chunk.js": "/static/js/5.92b7725c.chunk.js",
     "static/js/5.92b7725c.chunk.js.map": "/static/js/5.92b7725c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.fc6ce1a48241136283a396aece60fc76.js": "/precache-manifest.fc6ce1a48241136283a396aece60fc76.js",
+    "precache-manifest.30c79b57c19471cd6a25cef5e2bc508d.js": "/precache-manifest.30c79b57c19471cd6a25cef5e2bc508d.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.85325696.chunk.css.map": "/static/css/2.85325696.chunk.css.map",
-    "static/css/main.6df7a823.chunk.css.map": "/static/css/main.6df7a823.chunk.css.map",
+    "static/css/main.7692de9f.chunk.css.map": "/static/css/main.7692de9f.chunk.css.map",
     "static/js/2.442c6b60.chunk.js.LICENSE.txt": "/static/js/2.442c6b60.chunk.js.LICENSE.txt",
     "static/js/3.a21c9bd9.chunk.js.LICENSE.txt": "/static/js/3.a21c9bd9.chunk.js.LICENSE.txt",
     "static/js/4.ce4f17ac.chunk.js.LICENSE.txt": "/static/js/4.ce4f17ac.chunk.js.LICENSE.txt",
@@ -46,7 +46,7 @@
     "static/media/YUVI.JPG": "/static/media/YUVI.f6fded64.JPG",
     "static/media/a.jpg": "/static/media/a.c85e5355.jpg",
     "static/media/abhiniyu.jpg": "/static/media/abhiniyu.27554fe5.jpg",
-    "static/media/event_explore.css": "/static/media/astro_new_cropped.eb689cb2.png",
+    "static/media/event_explore.css": "/static/media/soliddesign.ae494c97.jpg",
     "static/media/astronaut.svg": "/static/media/astronaut.8bad1bca.svg",
     "static/media/astronaut.png": "/static/media/astronaut.d0782e14.png",
     "static/media/robo_explore.css": "/static/media/varun.fa65e7af.jpg",
@@ -66,7 +66,7 @@
     "static/media/edm1.jpg": "/static/media/edm1.f494985e.jpg",
     "static/media/eduquis.png": "/static/media/eduquis.1c21af82.png",
     "static/media/engconvo.png": "/static/media/engconvo.56504491.png",
-    "static/media/hack_explore.css": "/static/media/photography.2a77c218.jpg",
+    "static/media/hack_explore.css": "/static/media/engconvo.ef307e61.jpg",
     "static/media/etherum.png": "/static/media/etherum.4fd59ead.png",
     "static/media/eventom.png": "/static/media/eventom.d2b9a6f7.png",
     "static/media/tech_explore.css": "/static/media/robowars.a769e572.jpg",
@@ -79,7 +79,7 @@
     "static/media/github.svg": "/static/media/github.2e257125.svg",
     "static/media/google.svg": "/static/media/google.08ea438e.svg",
     "static/media/grabon.png": "/static/media/grabon.3c9e0fbb.png",
-    "static/media/work_explore.css": "/static/media/sandeepshrm.9609ddcb.jpg",
+    "static/media/work_explore.css": "/static/media/guesttalks.ea03e8bc.jpg",
     "static/media/ha10.jpeg": "/static/media/ha10.6f8da028.jpeg",
     "static/media/ha11.jpeg": "/static/media/ha11.ade6ee35.jpeg",
     "static/media/ha3.jpeg": "/static/media/ha3.52d11005.jpeg",
@@ -142,7 +142,7 @@
     "static/js/runtime-main.10b41d22.js",
     "static/css/2.85325696.chunk.css",
     "static/js/2.442c6b60.chunk.js",
-    "static/css/main.6df7a823.chunk.css",
-    "static/js/main.2c4532a4.chunk.js"
+    "static/css/main.7692de9f.chunk.css",
+    "static/js/main.296ee182.chunk.js"
   ]
 }

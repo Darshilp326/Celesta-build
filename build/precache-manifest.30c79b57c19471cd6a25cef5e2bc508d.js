@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9ab723741bc31da88cdcbfae58cfa934",
+    "revision": "a0096adbc345c1b1f35135f270da301e",
     "url": "/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.85325696.chunk.css"
   },
   {
-    "revision": "994b3506d808f257f6f4",
-    "url": "/static/css/main.6df7a823.chunk.css"
+    "revision": "282cd2a2244908ee4e4d",
+    "url": "/static/css/main.7692de9f.chunk.css"
   },
   {
     "revision": "e7934b4a35ec6498ce89",
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/5.92b7725c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "994b3506d808f257f6f4",
-    "url": "/static/js/main.2c4532a4.chunk.js"
+    "revision": "282cd2a2244908ee4e4d",
+    "url": "/static/js/main.296ee182.chunk.js"
   },
   {
     "revision": "842e8d598a1d126b3417",
@@ -412,16 +412,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/patrat.03ea2a0a.png"
   },
   {
-    "revision": "2a77c2188d6b9540387d9c3fb9f85915",
-    "url": "/static/media/photography.2a77c218.jpg"
-  },
-  {
     "revision": "2515c8e5bccbb8334071a0cce1bb2540",
     "url": "/static/media/profile-page.2515c8e5.png"
   },
   {
     "revision": "e98afc072c6f49aaafb3216e554daef6",
     "url": "/static/media/pronite.e98afc07.jpg"
+  },
+  {
+    "revision": "244aa812e755cdde286a508dc73ba9e4",
+    "url": "/static/media/quest.244aa812.jpeg"
   },
   {
     "revision": "d5392d32b964f8c6528f0978af8822e0",
@@ -472,10 +472,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/ryan.9d4a558e.jpg"
   },
   {
-    "revision": "9609ddcbcdc17e766681da96ef66f252",
-    "url": "/static/media/sandeepshrm.9609ddcb.jpg"
-  },
-  {
     "revision": "1e472271f87f9881682a5e2f5af0adf7",
     "url": "/static/media/sbi.1e472271.png"
   },
@@ -486,6 +482,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "62090ef99ce3b37fe9ac447fe26ec560",
     "url": "/static/media/skills.62090ef9.jpg"
+  },
+  {
+    "revision": "ae494c973395d05cd0785ce9d12a00e2",
+    "url": "/static/media/soliddesign.ae494c97.jpg"
   },
   {
     "revision": "79c1998fb18c2d0078bee11f902364e3",

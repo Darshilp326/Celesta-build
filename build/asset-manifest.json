@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.19632897.chunk.css",
-    "main.js": "/static/js/main.9b507bc5.chunk.js",
-    "main.js.map": "/static/js/main.9b507bc5.chunk.js.map",
+    "main.css": "/static/css/main.2f1ac362.chunk.css",
+    "main.js": "/static/js/main.9b60159d.chunk.js",
+    "main.js.map": "/static/js/main.9b60159d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.10b41d22.js",
     "runtime-main.js.map": "/static/js/runtime-main.10b41d22.js.map",
     "static/css/2.85325696.chunk.css": "/static/css/2.85325696.chunk.css",
-    "static/js/2.442c6b60.chunk.js": "/static/js/2.442c6b60.chunk.js",
-    "static/js/2.442c6b60.chunk.js.map": "/static/js/2.442c6b60.chunk.js.map",
+    "static/js/2.9c7cc5f3.chunk.js": "/static/js/2.9c7cc5f3.chunk.js",
+    "static/js/2.9c7cc5f3.chunk.js.map": "/static/js/2.9c7cc5f3.chunk.js.map",
     "static/js/3.a21c9bd9.chunk.js": "/static/js/3.a21c9bd9.chunk.js",
     "static/js/3.a21c9bd9.chunk.js.map": "/static/js/3.a21c9bd9.chunk.js.map",
     "static/js/4.ce4f17ac.chunk.js": "/static/js/4.ce4f17ac.chunk.js",
@@ -15,11 +15,11 @@
     "static/js/5.92b7725c.chunk.js": "/static/js/5.92b7725c.chunk.js",
     "static/js/5.92b7725c.chunk.js.map": "/static/js/5.92b7725c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.59785026015f75ea777d514759fd1965.js": "/precache-manifest.59785026015f75ea777d514759fd1965.js",
+    "precache-manifest.9a917ddcb2fdd41e864d6862010e60cf.js": "/precache-manifest.9a917ddcb2fdd41e864d6862010e60cf.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.85325696.chunk.css.map": "/static/css/2.85325696.chunk.css.map",
-    "static/css/main.19632897.chunk.css.map": "/static/css/main.19632897.chunk.css.map",
-    "static/js/2.442c6b60.chunk.js.LICENSE.txt": "/static/js/2.442c6b60.chunk.js.LICENSE.txt",
+    "static/css/main.2f1ac362.chunk.css.map": "/static/css/main.2f1ac362.chunk.css.map",
+    "static/js/2.9c7cc5f3.chunk.js.LICENSE.txt": "/static/js/2.9c7cc5f3.chunk.js.LICENSE.txt",
     "static/js/3.a21c9bd9.chunk.js.LICENSE.txt": "/static/js/3.a21c9bd9.chunk.js.LICENSE.txt",
     "static/js/4.ce4f17ac.chunk.js.LICENSE.txt": "/static/js/4.ce4f17ac.chunk.js.LICENSE.txt",
     "static/js/5.92b7725c.chunk.js.LICENSE.txt": "/static/js/5.92b7725c.chunk.js.LICENSE.txt",
@@ -37,6 +37,7 @@
     "static/media/CommunityEvents.png": "/static/media/CommunityEvents.449ea95d.png",
     "static/media/Durgesh.jpg": "/static/media/Durgesh.4c28e8ac.jpg",
     "static/media/HA4.jpeg": "/static/media/HA4.a2fba76c.jpeg",
+    "static/media/gl_explore.css": "/static/media/venugopal_cropped.d1adcdcf.png",
     "static/media/Hrishabh_raj.jpg": "/static/media/Hrishabh_raj.d49bece6.jpg",
     "static/media/Joshika.jpg": "/static/media/Joshika.ead027a9.jpg",
     "static/media/Rahul Verma.jpg": "/static/media/Rahul Verma.c6a41063.jpg",
@@ -132,7 +133,6 @@
     "static/media/techprolabz.png": "/static/media/techprolabz.94b3a462.png",
     "static/media/timesofindia.png": "/static/media/timesofindia.f134f2e5.png",
     "static/media/varun.jpg": "/static/media/varun.e920d109.jpg",
-    "static/media/gl_explore.css": "/static/media/venugopal_cropped.d1adcdcf.png",
     "static/media/vinay.jpeg": "/static/media/vinay.eff06bec.jpeg",
     "static/media/waves.png": "/static/media/waves.11fa5f73.png",
     "static/media/whatsapp_image_2019-12-10_at_15.51.14.jpeg": "/static/media/whatsapp_image_2019-12-10_at_15.51.14.396b8e0d.jpeg",
@@ -141,8 +141,8 @@
   "entrypoints": [
     "static/js/runtime-main.10b41d22.js",
     "static/css/2.85325696.chunk.css",
-    "static/js/2.442c6b60.chunk.js",
-    "static/css/main.19632897.chunk.css",
-    "static/js/main.9b507bc5.chunk.js"
+    "static/js/2.9c7cc5f3.chunk.js",
+    "static/css/main.2f1ac362.chunk.css",
+    "static/js/main.9b60159d.chunk.js"
   ]
 }

@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.7d8b7665.chunk.css",
-    "main.js": "/static/js/main.0ba15a5b.chunk.js",
-    "main.js.map": "/static/js/main.0ba15a5b.chunk.js.map",
+    "main.css": "/static/css/main.d1c8debe.chunk.css",
+    "main.js": "/static/js/main.6f033999.chunk.js",
+    "main.js.map": "/static/js/main.6f033999.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1171a6ce.js",
     "runtime-main.js.map": "/static/js/runtime-main.1171a6ce.js.map",
     "static/css/2.85325696.chunk.css": "/static/css/2.85325696.chunk.css",
@@ -15,16 +15,17 @@
     "static/js/5.92b7725c.chunk.js": "/static/js/5.92b7725c.chunk.js",
     "static/js/5.92b7725c.chunk.js.map": "/static/js/5.92b7725c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e72f5949b0a3195c20a28936b5c29456.js": "/precache-manifest.e72f5949b0a3195c20a28936b5c29456.js",
+    "precache-manifest.3b1d5e66441f9ee017a19e4571e0fb9b.js": "/precache-manifest.3b1d5e66441f9ee017a19e4571e0fb9b.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.85325696.chunk.css.map": "/static/css/2.85325696.chunk.css.map",
-    "static/css/main.7d8b7665.chunk.css.map": "/static/css/main.7d8b7665.chunk.css.map",
+    "static/css/main.d1c8debe.chunk.css.map": "/static/css/main.d1c8debe.chunk.css.map",
     "static/js/2.c3c70228.chunk.js.LICENSE.txt": "/static/js/2.c3c70228.chunk.js.LICENSE.txt",
     "static/js/3.55cfc3fe.chunk.js.LICENSE.txt": "/static/js/3.55cfc3fe.chunk.js.LICENSE.txt",
     "static/js/4.ce4f17ac.chunk.js.LICENSE.txt": "/static/js/4.ce4f17ac.chunk.js.LICENSE.txt",
     "static/js/5.92b7725c.chunk.js.LICENSE.txt": "/static/js/5.92b7725c.chunk.js.LICENSE.txt",
     "static/media/14empire.png": "/static/media/14empire.5f192b50.png",
     "static/media/ca.css": "/static/media/1876.a993068e.jpg",
+    "static/media/event_explore.css": "/static/media/soliddesign.ae494c97.jpg",
     "static/media/4041.png": "/static/media/4041.e15aa5f7.png",
     "static/media/ABJ.png": "/static/media/ABJ.b11360ae.png",
     "static/media/ATM1245_Anubhav Singh Bassi.jpg": "/static/media/ATM1245_Anubhav Singh Bassi.e98afc07.jpg",
@@ -47,7 +48,6 @@
     "static/media/YUVI.JPG": "/static/media/YUVI.f6fded64.JPG",
     "static/media/a.jpg": "/static/media/a.c85e5355.jpg",
     "static/media/abhiniyu.jpg": "/static/media/abhiniyu.27554fe5.jpg",
-    "static/media/event_explore.css": "/static/media/soliddesign.ae494c97.jpg",
     "static/media/astronaut.svg": "/static/media/astronaut.8bad1bca.svg",
     "static/media/astronaut.png": "/static/media/astronaut.d0782e14.png",
     "static/media/robo_explore.css": "/static/media/varun.fa65e7af.jpg",
@@ -142,7 +142,7 @@
     "static/js/runtime-main.1171a6ce.js",
     "static/css/2.85325696.chunk.css",
     "static/js/2.c3c70228.chunk.js",
-    "static/css/main.7d8b7665.chunk.css",
-    "static/js/main.0ba15a5b.chunk.js"
+    "static/css/main.d1c8debe.chunk.css",
+    "static/js/main.6f033999.chunk.js"
   ]
 }

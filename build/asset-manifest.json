@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.97167757.chunk.css",
-    "main.js": "/static/js/main.6f033999.chunk.js",
-    "main.js.map": "/static/js/main.6f033999.chunk.js.map",
+    "main.css": "/static/css/main.9f5ea365.chunk.css",
+    "main.js": "/static/js/main.a44ffa90.chunk.js",
+    "main.js.map": "/static/js/main.a44ffa90.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1171a6ce.js",
     "runtime-main.js.map": "/static/js/runtime-main.1171a6ce.js.map",
     "static/css/2.85325696.chunk.css": "/static/css/2.85325696.chunk.css",
@@ -15,10 +15,10 @@
     "static/js/5.92b7725c.chunk.js": "/static/js/5.92b7725c.chunk.js",
     "static/js/5.92b7725c.chunk.js.map": "/static/js/5.92b7725c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.5018bb004767aff607b43ea9a8103cc7.js": "/precache-manifest.5018bb004767aff607b43ea9a8103cc7.js",
+    "precache-manifest.a67d325f933a29789af862b07622b6a7.js": "/precache-manifest.a67d325f933a29789af862b07622b6a7.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.85325696.chunk.css.map": "/static/css/2.85325696.chunk.css.map",
-    "static/css/main.97167757.chunk.css.map": "/static/css/main.97167757.chunk.css.map",
+    "static/css/main.9f5ea365.chunk.css.map": "/static/css/main.9f5ea365.chunk.css.map",
     "static/js/2.c3c70228.chunk.js.LICENSE.txt": "/static/js/2.c3c70228.chunk.js.LICENSE.txt",
     "static/js/3.55cfc3fe.chunk.js.LICENSE.txt": "/static/js/3.55cfc3fe.chunk.js.LICENSE.txt",
     "static/js/4.ce4f17ac.chunk.js.LICENSE.txt": "/static/js/4.ce4f17ac.chunk.js.LICENSE.txt",
@@ -30,7 +30,6 @@
     "static/media/ABJ.png": "/static/media/ABJ.b11360ae.png",
     "static/media/ATM1245_Anubhav Singh Bassi.jpg": "/static/media/ATM1245_Anubhav Singh Bassi.e98afc07.jpg",
     "static/media/ATM7835_Base Guns - DJ Night.jpg": "/static/media/ATM7835_Base Guns - DJ Night.b6781e80.jpg",
-    "static/media/gl_explore.css": "/static/media/venugopal_cropped.8402b952.png",
     "static/media/AmalfiGrand.png": "/static/media/AmalfiGrand.51ad3fcd.png",
     "static/media/Anmol Chaddha.JPG": "/static/media/Anmol Chaddha.6c1431ff.JPG",
     "static/media/Aryan_kothari.jpg": "/static/media/Aryan_kothari.7b1bb530.jpg",
@@ -39,6 +38,7 @@
     "static/media/CommunityEvents.png": "/static/media/CommunityEvents.449ea95d.png",
     "static/media/Durgesh.jpg": "/static/media/Durgesh.4c28e8ac.jpg",
     "static/media/HA4.jpeg": "/static/media/HA4.a2fba76c.jpeg",
+    "static/media/gl_explore.css": "/static/media/venugopal_cropped.8402b952.png",
     "static/media/Hrishabh_raj.jpg": "/static/media/Hrishabh_raj.d49bece6.jpg",
     "static/media/Joshika.jpg": "/static/media/Joshika.ead027a9.jpg",
     "static/media/Rahul Verma.jpg": "/static/media/Rahul Verma.c6a41063.jpg",
@@ -142,7 +142,7 @@
     "static/js/runtime-main.1171a6ce.js",
     "static/css/2.85325696.chunk.css",
     "static/js/2.c3c70228.chunk.js",
-    "static/css/main.97167757.chunk.css",
-    "static/js/main.6f033999.chunk.js"
+    "static/css/main.9f5ea365.chunk.css",
+    "static/js/main.a44ffa90.chunk.js"
   ]
 }

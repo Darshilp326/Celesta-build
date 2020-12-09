@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8427b93d7caf83d3b0d50179818e2559",
+    "revision": "552a33ce91d2feb4631b5f4f28ac28a0",
     "url": "/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.85325696.chunk.css"
   },
   {
-    "revision": "e7ccde04e0ec8ad43517",
-    "url": "/static/css/main.97167757.chunk.css"
+    "revision": "220394c15ce3b9ca1dd8",
+    "url": "/static/css/main.9f5ea365.chunk.css"
   },
   {
     "revision": "ec96d43905cebea414fe",
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/5.92b7725c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e7ccde04e0ec8ad43517",
-    "url": "/static/js/main.6f033999.chunk.js"
+    "revision": "220394c15ce3b9ca1dd8",
+    "url": "/static/js/main.a44ffa90.chunk.js"
   },
   {
     "revision": "3c0ce4d3eb094d2d0fa4",
@@ -78,10 +78,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b6781e80b50f3d7650c335bded319a66",
     "url": "/static/media/ATM7835_Base Guns - DJ Night.b6781e80.jpg"
-  },
-  {
-    "revision": "0c848dff992fbca92b164d5b8d0a661f",
-    "url": "/static/media/Alyne.0c848dff.jpg"
   },
   {
     "revision": "51ad3fcd38d3ab8350d55d976b0197b4",
@@ -154,6 +150,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "27554fe5c44d364209f237ad15245de5",
     "url": "/static/media/abhiniyu.27554fe5.jpg"
+  },
+  {
+    "revision": "0c848dff992fbca92b164d5b8d0a661f",
+    "url": "/static/media/alyne.0c848dff.jpg"
   },
   {
     "revision": "11995e8f93992bdc18fc9f80eb5a80d8",

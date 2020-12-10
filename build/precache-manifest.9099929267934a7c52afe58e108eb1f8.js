@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dca6c85a2ff943aab82c8a5613e20560",
+    "revision": "cf36069a42fb792df17aeafdf1bffad3",
     "url": "/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.85325696.chunk.css"
   },
   {
-    "revision": "7e86a3d3c65ec2eafb47",
-    "url": "/static/css/main.7b9a8e8b.chunk.css"
+    "revision": "338e1967264204cb7ec9",
+    "url": "/static/css/main.5dd6d9a1.chunk.css"
   },
   {
     "revision": "2532407a3b85b91f8626",
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/5.92b7725c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7e86a3d3c65ec2eafb47",
-    "url": "/static/js/main.3b098d22.chunk.js"
+    "revision": "338e1967264204cb7ec9",
+    "url": "/static/js/main.c57c171f.chunk.js"
   },
   {
     "revision": "3c0ce4d3eb094d2d0fa4",
@@ -602,10 +602,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f134f2e5d2cdc563518616cbf0540e28",
     "url": "/static/media/timesofindia.f134f2e5.png"
-  },
-  {
-    "revision": "a1d5dc68c69241a89c12d3ccc97796a9",
-    "url": "/static/media/vallabhjee.a1d5dc68.jpg"
   },
   {
     "revision": "e920d109d254fd13d281e4d70cd54197",

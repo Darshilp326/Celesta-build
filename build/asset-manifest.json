@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.5dd6d9a1.chunk.css",
+    "main.css": "/static/css/main.15dcd9ad.chunk.css",
     "main.js": "/static/js/main.c57c171f.chunk.js",
     "main.js.map": "/static/js/main.c57c171f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1171a6ce.js",
@@ -15,10 +15,10 @@
     "static/js/5.92b7725c.chunk.js": "/static/js/5.92b7725c.chunk.js",
     "static/js/5.92b7725c.chunk.js.map": "/static/js/5.92b7725c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9099929267934a7c52afe58e108eb1f8.js": "/precache-manifest.9099929267934a7c52afe58e108eb1f8.js",
+    "precache-manifest.09983a80eb12c74cfbf8e7c3f0c9081f.js": "/precache-manifest.09983a80eb12c74cfbf8e7c3f0c9081f.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.85325696.chunk.css.map": "/static/css/2.85325696.chunk.css.map",
-    "static/css/main.5dd6d9a1.chunk.css.map": "/static/css/main.5dd6d9a1.chunk.css.map",
+    "static/css/main.15dcd9ad.chunk.css.map": "/static/css/main.15dcd9ad.chunk.css.map",
     "static/js/2.dc7f5a54.chunk.js.LICENSE.txt": "/static/js/2.dc7f5a54.chunk.js.LICENSE.txt",
     "static/js/3.55cfc3fe.chunk.js.LICENSE.txt": "/static/js/3.55cfc3fe.chunk.js.LICENSE.txt",
     "static/js/4.ce4f17ac.chunk.js.LICENSE.txt": "/static/js/4.ce4f17ac.chunk.js.LICENSE.txt",
@@ -68,7 +68,6 @@
     "static/media/edm1.jpg": "/static/media/edm1.f494985e.jpg",
     "static/media/eduquis.png": "/static/media/eduquis.1c21af82.png",
     "static/media/engconvo.png": "/static/media/engconvo.56504491.png",
-    "static/media/hack_explore.css": "/static/media/engconvo.ef307e61.jpg",
     "static/media/etherum.png": "/static/media/etherum.4fd59ead.png",
     "static/media/eventom.png": "/static/media/eventom.d2b9a6f7.png",
     "static/media/tech_explore.css": "/static/media/robowars.a769e572.jpg",
@@ -81,13 +80,13 @@
     "static/media/github.svg": "/static/media/github.2e257125.svg",
     "static/media/google.svg": "/static/media/google.08ea438e.svg",
     "static/media/grabon.png": "/static/media/grabon.3c9e0fbb.png",
-    "static/media/work_explore.css": "/static/media/guesttalks.ea03e8bc.jpg",
     "static/media/ha10.jpeg": "/static/media/ha10.6f8da028.jpeg",
     "static/media/ha11.jpeg": "/static/media/ha11.ade6ee35.jpeg",
     "static/media/ha3.jpeg": "/static/media/ha3.52d11005.jpeg",
     "static/media/ha7.jpeg": "/static/media/ha7.f7f21696.jpeg",
     "static/media/ha8.jpeg": "/static/media/ha8.c691d18c.jpeg",
     "static/media/ha9.jpeg": "/static/media/ha9.61b47d88.jpeg",
+    "static/media/hack_explore.css": "/static/media/hackawork.1d05389e.jpeg",
     "static/media/hero.jpg": "/static/media/hero.d4fcde68.jpg",
     "static/media/hindustantimes.png": "/static/media/hindustantimes.bc70cbca.png",
     "static/media/iitp.jpg": "/static/media/iitp.bf5ccf7c.jpg",
@@ -142,7 +141,7 @@
     "static/js/runtime-main.1171a6ce.js",
     "static/css/2.85325696.chunk.css",
     "static/js/2.dc7f5a54.chunk.js",
-    "static/css/main.5dd6d9a1.chunk.css",
+    "static/css/main.15dcd9ad.chunk.css",
     "static/js/main.c57c171f.chunk.js"
   ]
 }

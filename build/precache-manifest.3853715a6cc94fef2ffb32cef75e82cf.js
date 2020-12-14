@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1e56f40984bd32285e99975e588f3561",
+    "revision": "fecc1a9c4b776517300f4ef82f8471b2",
     "url": "/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.85325696.chunk.css"
   },
   {
-    "revision": "16afa32cc6fe05e7f696",
-    "url": "/static/css/main.15dcd9ad.chunk.css"
+    "revision": "327243272a9e3319618e",
+    "url": "/static/css/main.5f0abefa.chunk.css"
   },
   {
     "revision": "2532407a3b85b91f8626",
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/5.92b7725c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "16afa32cc6fe05e7f696",
-    "url": "/static/js/main.43a6a1db.chunk.js"
+    "revision": "327243272a9e3319618e",
+    "url": "/static/js/main.6005e33f.chunk.js"
   },
   {
     "revision": "3c0ce4d3eb094d2d0fa4",
@@ -122,6 +122,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ead027a968c2cb5424ff0c8e82244603",
     "url": "/static/media/Joshika.ead027a9.jpg"
+  },
+  {
+    "revision": "dc070e60bbb92dcbd053c5b017b2119b",
+    "url": "/static/media/NJATH.dc070e60.png"
   },
   {
     "revision": "c6a41063b7b6a035ce9191b2cb4e3af1",

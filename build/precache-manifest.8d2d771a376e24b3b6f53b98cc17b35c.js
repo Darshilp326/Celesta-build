@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fecc1a9c4b776517300f4ef82f8471b2",
+    "revision": "5ae19f56374003a96a03b1bf3d7dccbd",
     "url": "/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.85325696.chunk.css"
   },
   {
-    "revision": "327243272a9e3319618e",
-    "url": "/static/css/main.5f0abefa.chunk.css"
+    "revision": "f3db3ac010a87377f1b6",
+    "url": "/static/css/main.d124b55c.chunk.css"
   },
   {
     "revision": "2532407a3b85b91f8626",
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/5.92b7725c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "327243272a9e3319618e",
-    "url": "/static/js/main.6005e33f.chunk.js"
+    "revision": "f3db3ac010a87377f1b6",
+    "url": "/static/js/main.43a6a1db.chunk.js"
   },
   {
     "revision": "3c0ce4d3eb094d2d0fa4",
@@ -130,6 +130,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c6a41063b7b6a035ce9191b2cb4e3af1",
     "url": "/static/media/Rahul Verma.c6a41063.jpg"
+  },
+  {
+    "revision": "e7f664cf7385c94f3a09b3c4edfa4775",
+    "url": "/static/media/Samar.e7f664cf.png"
   },
   {
     "revision": "e464eead99a8e71e48c51cd7e4fa813e",
@@ -404,10 +408,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/mike.be4a1748.jpg"
   },
   {
-    "revision": "384726cf80756cae7061e555e85e5d59",
-    "url": "/static/media/minwalla.384726cf.jpg"
-  },
-  {
     "revision": "d1b92866a2f4a9aad826dcfcb47410e0",
     "url": "/static/media/nassi1.d1b92866.jpg"
   },
@@ -476,8 +476,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/quest.244aa812.jpeg"
   },
   {
-    "revision": "a8cee5a87bfe9cf0f0ecf82cabfbb3c9",
-    "url": "/static/media/rajan.a8cee5a8.jpg"
+    "revision": "d891085a15c80a73713050549a640074",
+    "url": "/static/media/rajan.d891085a.png"
   },
   {
     "revision": "d5392d32b964f8c6528f0978af8822e0",
@@ -540,8 +540,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/shashwat_mahajan.a6405e33.jpg"
   },
   {
-    "revision": "576311b121aa2c741c4fc8583d473081",
-    "url": "/static/media/singla.576311b1.jpg"
+    "revision": "c95bd01648b3920b2f1a439645d657ce",
+    "url": "/static/media/shiraz.c95bd016.png"
   },
   {
     "revision": "62090ef99ce3b37fe9ac447fe26ec560",

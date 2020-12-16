@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5ae19f56374003a96a03b1bf3d7dccbd",
+    "revision": "ab4ec7c2bda499915409e624719452b9",
     "url": "/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.85325696.chunk.css"
   },
   {
-    "revision": "f3db3ac010a87377f1b6",
-    "url": "/static/css/main.d124b55c.chunk.css"
+    "revision": "200873214e0813e4ab6f",
+    "url": "/static/css/main.28ccc9ae.chunk.css"
   },
   {
     "revision": "2532407a3b85b91f8626",
@@ -44,7 +44,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/5.92b7725c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f3db3ac010a87377f1b6",
+    "revision": "200873214e0813e4ab6f",
     "url": "/static/js/main.43a6a1db.chunk.js"
   },
   {
@@ -96,6 +96,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Balbeer.f6e27248.png"
   },
   {
+    "revision": "b8a99757afb424a040e4d6c1d6abdd1f",
+    "url": "/static/media/CADmaestro.b8a99757.png"
+  },
+  {
     "revision": "603a56d0d52fe6bbfd13b08a1195b7e8",
     "url": "/static/media/Chopsic-K6Dp.603a56d0.ttf"
   },
@@ -112,8 +116,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/HA4.a2fba76c.jpeg"
   },
   {
-    "revision": "f87c7c0bac1c0fbb2ffddd3672e1f469",
-    "url": "/static/media/HCV.f87c7c0b.jpg"
+    "revision": "01fb4e7fea0ece063740b50ce0667851",
+    "url": "/static/media/HCVerma_cropped.01fb4e7f.jpg"
   },
   {
     "revision": "d49bece6c68ac0814846b502981ee2ae",
@@ -132,8 +136,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Rahul Verma.c6a41063.jpg"
   },
   {
-    "revision": "e7f664cf7385c94f3a09b3c4edfa4775",
-    "url": "/static/media/Samar.e7f664cf.png"
+    "revision": "02bec2e19fcc5d487b62a5d6df7976da",
+    "url": "/static/media/Samar_cropped.02bec2e1.png"
   },
   {
     "revision": "e464eead99a8e71e48c51cd7e4fa813e",
@@ -476,8 +480,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/quest.244aa812.jpeg"
   },
   {
-    "revision": "d891085a15c80a73713050549a640074",
-    "url": "/static/media/rajan.d891085a.png"
+    "revision": "564d073741236433aa4dd18d1e5d5f8c",
+    "url": "/static/media/rajan_cropped.564d0737.png"
   },
   {
     "revision": "d5392d32b964f8c6528f0978af8822e0",
@@ -540,8 +544,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/shashwat_mahajan.a6405e33.jpg"
   },
   {
-    "revision": "c95bd01648b3920b2f1a439645d657ce",
-    "url": "/static/media/shiraz.c95bd016.png"
+    "revision": "d1e7accfaba4beb03d57dccf443d549f",
+    "url": "/static/media/shiraz_cropped.d1e7accf.png"
   },
   {
     "revision": "62090ef99ce3b37fe9ac447fe26ec560",

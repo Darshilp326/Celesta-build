@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c72bddd92e512e1bec6605c38e2ca049",
+    "revision": "43b02317ea734f669363847ad89bc96e",
     "url": "/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.85325696.chunk.css"
   },
   {
-    "revision": "704ff3c22a85a8d5ad34",
-    "url": "/static/css/main.080772a7.chunk.css"
+    "revision": "ae0309b7e0973f06be9f",
+    "url": "/static/css/main.850bc01a.chunk.css"
   },
   {
     "revision": "2532407a3b85b91f8626",
@@ -44,7 +44,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/5.92b7725c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "704ff3c22a85a8d5ad34",
+    "revision": "ae0309b7e0973f06be9f",
     "url": "/static/js/main.f5ea38b5.chunk.js"
   },
   {
@@ -160,12 +160,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/a.c85e5355.jpg"
   },
   {
-    "revision": "27554fe5c44d364209f237ad15245de5",
-    "url": "/static/media/abhiniyu.27554fe5.jpg"
+    "revision": "5cb8eece58fc41dcc7136381432148e1",
+    "url": "/static/media/abhinay_cropped.5cb8eece.png"
   },
   {
-    "revision": "0c848dff992fbca92b164d5b8d0a661f",
-    "url": "/static/media/alyne.0c848dff.jpg"
+    "revision": "27554fe5c44d364209f237ad15245de5",
+    "url": "/static/media/abhiniyu.27554fe5.jpg"
   },
   {
     "revision": "11995e8f93992bdc18fc9f80eb5a80d8",
@@ -190,10 +190,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b6a8b06449902a06ff05685530b11d1e",
     "url": "/static/media/beltron.b6a8b064.png"
-  },
-  {
-    "revision": "8e231d838870a8c36c8e5d193432642d",
-    "url": "/static/media/bhasin.8e231d83.jpg"
   },
   {
     "revision": "e871caa5bb97578c249e8c8dba0fabcf",
@@ -590,6 +586,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ffd8200c68bcb41f6b180050f95fefba",
     "url": "/static/media/sybyline.ffd8200c.png"
+  },
+  {
+    "revision": "5418427a3b573d55cd95bca16fc777b8",
+    "url": "/static/media/tamir_cropped.5418427a.png"
   },
   {
     "revision": "24c3c2d11bc2ad6e414e5b0ee15b9aff",

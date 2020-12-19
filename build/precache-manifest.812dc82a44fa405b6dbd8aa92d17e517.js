@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e9eb689209a26aa8d6dca225266eb4d9",
+    "revision": "95a922d6bfd2f4f5574223b0bed4ef12",
     "url": "/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.85325696.chunk.css"
   },
   {
-    "revision": "3a1c9ae62a670740e3a5",
-    "url": "/static/css/main.850bc01a.chunk.css"
+    "revision": "0cf11fbac768cc0fecdf",
+    "url": "/static/css/main.3322d96f.chunk.css"
   },
   {
     "revision": "2532407a3b85b91f8626",
@@ -44,7 +44,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/5.92b7725c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3a1c9ae62a670740e3a5",
+    "revision": "0cf11fbac768cc0fecdf",
     "url": "/static/js/main.8a46a7c4.chunk.js"
   },
   {
@@ -134,10 +134,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c6a41063b7b6a035ce9191b2cb4e3af1",
     "url": "/static/media/Rahul Verma.c6a41063.jpg"
-  },
-  {
-    "revision": "02bec2e19fcc5d487b62a5d6df7976da",
-    "url": "/static/media/Samar_cropped.02bec2e1.png"
   },
   {
     "revision": "e464eead99a8e71e48c51cd7e4fa813e",
